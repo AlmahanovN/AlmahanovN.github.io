@@ -36,6 +36,7 @@ Tools: Git, VS Code, BEM, SVG Babel, Gulp, Canvas, Photoshop.
 **Website markup**
 1. Pink [link to code](https://github.com/AlmahanovN/pink)
 2. Barbershop [link to code](https://github.com/AlmahanovN/Barbershop)
+
 **Environment**: HTML5, CSS3, JavaScript (ES5).  
 
 ## Education
