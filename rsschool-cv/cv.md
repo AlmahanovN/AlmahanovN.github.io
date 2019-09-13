@@ -36,9 +36,9 @@ Tools: Git, VS Code, BEM, SVG Babel, Gulp, Canvas, Photoshop.
 **Website markup**
 1. Pink [link to code](https://github.com/AlmahanovN/pink)
 2. Barbershop [link to code](https://github.com/AlmahanovN/Barbershop)
-**Environment**: HTML5, CSS3, JavaScript (ES5).
+**Environment**: HTML5, CSS3, JavaScript (ES5).  
+
 ## Education
 1. The Rolling Scopes School (https://rs.school/) 09.09.2019 - now
-
 2. Almaty technological university, Almaty, Kazakhstan (2017-2021)
 Specialist  (Bachelor Degree - Computer Engineering and Software)
