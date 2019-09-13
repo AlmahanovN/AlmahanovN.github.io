@@ -6,7 +6,6 @@
 * **telegramm**- https://t.me/Ostraya_Shaurma
 * **English**: elementary (A1)  
 
-
 ## Summary of Qualifications
 Novice frontend-developer with technical education (I will finish in 2021). Confident knowledge of HTML, CSS/SCSS, JavaScript, React, Redux, Gulp.
 ## Technical Skills
