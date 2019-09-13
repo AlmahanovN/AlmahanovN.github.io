@@ -1,9 +1,9 @@
 #  Almakhanov Nurzhan
 * **Telephone number**: +7 (747) 567-88-89
 * **E-mail**: almahanov567@gmail.com
-* **github**- https://github.com/AlmahanovN
-* **vk**- https://vk.com/almakhanovn 
-* **telegramm**- https://t.me/Ostraya_Shaurma
+* **github**- [https://github.com/AlmahanovN](https://github.com/AlmahanovN)
+* **vk**- [https://vk.com/almakhanovn](https://vk.com/almakhanovn)
+* **telegramm**- [https://t.me/Ostraya_Shaurma](https://vk.com/almakhanovn)
 * **English**: elementary (A1)  
 
 ## Summary of Qualifications
